@@ -12,3 +12,4 @@ Hoping to:
 - Migrate off of Vercel
 - Build a website with Astro
 - Build a website with Remix
+- Experiment with Deno
