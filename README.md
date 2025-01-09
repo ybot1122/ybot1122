@@ -1,5 +1,3 @@
-## Hi.
-
 My name is Toby. I am web developer currently expanding into native mobile app development.
 
 Currently:
