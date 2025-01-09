@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi.
 
-<!--
-**ybot1122/ybot1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Toby. I am web developer currently expanding into native mobile app development.
 
-Here are some ideas to get you started:
+Currently:
+- Learning Swift (Udemy)
+- Learning Flutter (Udemy)
+- Building websites for friends
+- Building out my own "TobyUI" shared component and SDK library
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hoping to:
+- Build backends with Rust
+- Launch an app into the app stores
+- Build a mini deployment pipeline to AWS EC2 (i.e. migrate off of Vercel)
