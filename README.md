@@ -4,7 +4,7 @@ Currently:
 - Learning Swift (Udemy)
 - Learning Flutter (Udemy)
 - Building websites for friends
-- Building out my own "TobyUI" shared component and SDK library
+- Building out my own "TobyUI" React component and SDK library
 
 Hoping to:
 - Build backends with Rust
