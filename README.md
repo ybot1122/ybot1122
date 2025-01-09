@@ -9,4 +9,6 @@ Currently:
 Hoping to:
 - Build backends with Rust
 - Launch an app into the app stores
-- Build a mini deployment pipeline to AWS EC2 (i.e. migrate off of Vercel)
+- Migrate off of Vercel
+- Build a website with Astro
+- Build a website with Remix
