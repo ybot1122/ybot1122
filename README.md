@@ -1,4 +1,4 @@
-My name is Toby. I am web developer expanding into native mobile app development.
+My name is Toby, a web developer expanding into native mobile app development.
 
 | Currently | Hoping To |
 | ------ | ------ |
