@@ -1,15 +1,7 @@
 My name is Toby. I am web developer expanding into native mobile app development.
 
-Currently:
-- Learning Swift (Udemy)
-- Learning Flutter (Udemy)
-- Building websites for friends
-- Building out my own "TobyUI" React component and SDK library
+| Currently | Hoping To |
+| ------ | ------ |
+| <ul><li>Learning Swift (Udemy)</li><li>Learning Flutter (Udemy)</li><li>Building websites for friends</li><li>Building "TobyUI" React component and SDK library</li></ul> | <ul><li>Build backends with Rust</li><li>Launch an app into the app stores</li><li>Migrate off of Vercel</li><li>Build a website with Astro</li><li>Build a website with Remix</li><li>Experiment with Deno</li></ul>|
 
-Hoping to:
-- Build backends with Rust
-- Launch an app into the app stores
-- Migrate off of Vercel
-- Build a website with Astro
-- Build a website with Remix
-- Experiment with Deno
+Unto thee, O Lord, do I lift up my soul. Psalm 25:1 🤗
