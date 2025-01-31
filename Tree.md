@@ -14,11 +14,11 @@ Stop investing energy towards upward growth. Shift it to growing roots instead.
 
 If you truly invest into growing downwards, you will learn more about who you are. You will discover different ways of thinking, new perspectives, and what kinds of things are important to other people.
 
-Don't dismiss this a new age buddha zen inner peace yoga warrior memo.
+Don't dismiss this as a new age buddha zen inner peace yoga warrior memo.
 
 This is the hard work it takes to become a leader.
 
 Most will give up and go back to trying the same thing they did before, but harder.
 
-Best wishes,
-Toby
+Best wishes,<br />
+<i>Toby Liu</i>
