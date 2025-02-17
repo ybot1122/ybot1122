@@ -11,6 +11,4 @@ The way to remedy this approach is to invert the script. Instead of using pride 
 Unfortunately, most people are challenged by the call to humility and confidence because it forces us to confront some harsh realities:
 
 - We can't control everything, and
-- there is no substitute for hard work.
-
-If you're not sure whether or not you're truly learning from failure, consider this statement: I could have prevented Failure Y if I had been able to control Parameter X. Does this statement ring true to you?
+- There is no substitute for hard work.
